@@ -1,0 +1,23 @@
+"InstallScript"
+{
+	"Registry"
+	{
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Rockstar Games\\GTAV"
+		{
+			"string"
+			{
+				"InstallFolderSteam"	"%INSTALLDIR%\\GTAV"
+			}
+		}
+	}
+	"Run Process"
+	{
+		"SocialClub1178"
+		{
+			"HasRunKey"	"HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\271590"
+			"process 1"	"%INSTALLDIR%\\Installers\\Social-Club-v1.1.7.8-Setup.exe"
+			"command 1"	"/silent"
+			"NoCleanUp"	"0"
+		}
+	}
+}

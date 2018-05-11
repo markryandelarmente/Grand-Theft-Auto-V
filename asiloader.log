@@ -1,0 +1,20 @@
+// GTA V ASI LOADER (build May  2 2015)
+//     (C) Alexander Blade 2015
+LIB: "C:\Windows\system32\dinput8.dll" => 00007FFDEE4A0000
+API: "DirectInput8Create" => 00007FFDEE4A9C70
+API: "DllCanUnloadNow" => 00007FFDEE4B9C20
+API: "DllGetClassObject" => 00007FFDEE4B9CF0
+API: "DllRegisterServer" => 00007FFDEE4C39C0
+API: "DllUnregisterServer" => 00007FFDEE4C3C30
+LOADER: Loading *.asi plugins
+ASI: Loading "E:\Grand Theft Auto V\Menyoo.asi"
+     "Menyoo.asi" => 00007FFDDA7C0000
+ASI: Loading "E:\Grand Theft Auto V\mpspecialraces.asi"
+     "mpspecialraces.asi" => 00007FFE05950000
+ASI: Loading "E:\Grand Theft Auto V\NativeTrainer.asi"
+     "NativeTrainer.asi" => 00007FFE00970000
+ASI: Loading "E:\Grand Theft Auto V\ScriptHookVDotNet.asi"
+     "ScriptHookVDotNet.asi" => 00007FFDEC260000
+ASI: Loading "E:\Grand Theft Auto V\YachtDeluxe.asi"
+     "YachtDeluxe.asi" => 00007FFDEC530000
+LOADER: Finished loading *.asi plugins

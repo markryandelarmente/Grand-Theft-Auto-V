@@ -1,0 +1,112 @@
+// GTA V SCRIPT HOOK (build Mar 16 2016, v1.0.678.1)
+//     (C) Alexander Blade 2015-2016
+[20:41:39] INIT: Started
+[20:41:39] INIT: Success, game version is VER_1_0_678_1_STEAM
+[20:41:41] INIT: Registering script 'Menyoo.asi' (0x00007FFDDAA40BC0)
+[20:41:41] INIT: Registering additional script thread 'Menyoo.asi' (0x00007FFDDAA3F830)
+[20:41:41] INIT: Registering script 'mpspecialraces.asi' (0x00007FFE05951270)
+[20:41:41] INIT: Registering script 'NativeTrainer.asi' (0x00007FFE0097A3C0)
+[20:41:41] INIT: Registering script 'ScriptHookVDotNet.asi' (0x00007FFDEC261450)
+[20:41:41] INIT: Registering script 'YachtDeluxe.asi' (0x00007FFDEC5520C0)
+[20:41:50] INIT: Pool 1 extended
+[20:41:50] INIT: Pool 2 extended
+[20:41:50] INIT: Pool 3 extended
+[20:41:50] INIT: Pool 4 extended
+[20:41:55] INIT: GtaThread collection size 177
+[20:41:55] INIT: wnd proc 0x00000000FFFF0A31
+[20:41:55] INIT: IDXGISwapChain 0x00007FFE22AA8018 (0x00007FFE22A41D20)
+[20:41:55] INIT: IDXGISwapChain set
+[20:41:55] INIT: DX init started
+[20:41:55] INIT: DX feature level B000
+[20:41:55] INIT: DX init succeeded
+[20:42:38] CORE: Requesting thread creation
+[20:42:38] CORE: Creating threads
+[20:42:40] CORE: Started control thread, id 30 active 1
+[20:42:40] CORE: Started thread 'Menyoo.asi' (0x00007FFDDAA40BC0), id 31 active 1
+[20:42:40] CORE: Started thread 'Menyoo.asi' (0x00007FFDDAA3F830), id 32 active 1
+[20:42:40] CORE: Started thread 'mpspecialraces.asi' (0x00007FFE05951270), id 33 active 1
+[20:42:40] CORE: Started thread 'NativeTrainer.asi' (0x00007FFE0097A3C0), id 34 active 1
+[20:42:40] CORE: Started thread 'ScriptHookVDotNet.asi' (0x00007FFDEC261450), id 35 active 1
+[20:42:40] CORE: Started thread 'YachtDeluxe.asi' (0x00007FFDEC5520C0), id 36 active 1
+[20:42:40] CORE: Launching main() for 'Menyoo.asi' (0x00007FFDDAA40BC0), id 31
+[20:42:40] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\needle_orange.png', id 0
+[20:42:40] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\night_needle_orange.png', id 1
+[20:42:40] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\needle_red.png', id 2
+[20:42:40] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\night_needle_red.png', id 3
+[20:42:40] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_cyan2.png', id 4
+[20:42:40] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_green2.png', id 5
+[20:42:40] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_yellow2.png', id 6
+[20:42:40] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_orange2.png', id 7
+[20:42:40] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_purple2.png', id 8
+[20:42:40] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_pink2.png', id 9
+[20:42:40] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_cyan.png', id 10
+[20:42:40] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_green.png', id 11
+[20:42:40] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_yellow.png', id 12
+[20:42:40] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_orange.png', id 13
+[20:42:40] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_purple.png', id 14
+[20:42:40] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_pink.png', id 15
+[20:42:40] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\teleportToWaypointBoxKeyboard.png', id 16
+[20:42:40] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\teleportToWaypointBoxGamepad.png', id 17
+[20:42:42] CORE: Launching main() for 'Menyoo.asi' (0x00007FFDDAA3F830), id 32
+[20:42:42] CORE: Launching main() for 'mpspecialraces.asi' (0x00007FFE05951270), id 33
+[20:42:42] CORE: Launching main() for 'NativeTrainer.asi' (0x00007FFE0097A3C0), id 34
+[20:42:42] CORE: Launching main() for 'ScriptHookVDotNet.asi' (0x00007FFDEC261450), id 35
+[20:42:42] CORE: Launching main() for 'YachtDeluxe.asi' (0x00007FFDEC5520C0), id 36
+[20:47:24] CORE: An exception occurred while executing 'Menyoo.asi' (0x00007FFDDAA3F830), id 32
+[20:57:10] CORE: Cleaning threads
+[20:57:10] CORE: Creating threads
+[20:57:10] CORE: Cleaning texture, id 0
+[20:57:10] CORE: Cleaning texture, id 1
+[20:57:10] CORE: Cleaning texture, id 2
+[20:57:10] CORE: Cleaning texture, id 3
+[20:57:10] CORE: Cleaning texture, id 4
+[20:57:10] CORE: Cleaning texture, id 5
+[20:57:10] CORE: Cleaning texture, id 6
+[20:57:10] CORE: Cleaning texture, id 7
+[20:57:10] CORE: Cleaning texture, id 8
+[20:57:10] CORE: Cleaning texture, id 9
+[20:57:10] CORE: Cleaning texture, id 10
+[20:57:10] CORE: Cleaning texture, id 11
+[20:57:10] CORE: Cleaning texture, id 12
+[20:57:10] CORE: Cleaning texture, id 13
+[20:57:10] CORE: Cleaning texture, id 14
+[20:57:10] CORE: Cleaning texture, id 15
+[20:57:10] CORE: Cleaning texture, id 16
+[20:57:10] CORE: Cleaning texture, id 17
+[20:57:16] CORE: Started control thread, id 191 active 1
+[20:57:16] CORE: Started thread 'Menyoo.asi' (0x00007FFDDAA40BC0), id 192 active 1
+[20:57:16] CORE: Started thread 'Menyoo.asi' (0x00007FFDDAA3F830), id 193 active 1
+[20:57:16] CORE: Started thread 'mpspecialraces.asi' (0x00007FFE05951270), id 194 active 1
+[20:57:16] CORE: Started thread 'NativeTrainer.asi' (0x00007FFE0097A3C0), id 195 active 1
+[20:57:16] CORE: Started thread 'ScriptHookVDotNet.asi' (0x00007FFDEC261450), id 196 active 1
+[20:57:16] CORE: Started thread 'YachtDeluxe.asi' (0x00007FFDEC5520C0), id 197 active 1
+[20:57:16] CORE: Launching main() for 'Menyoo.asi' (0x00007FFDDAA40BC0), id 192
+[20:57:16] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\needle_orange.png', id 18
+[20:57:16] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\night_needle_orange.png', id 19
+[20:57:16] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\needle_red.png', id 20
+[20:57:16] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\night_needle_red.png', id 21
+[20:57:16] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_cyan2.png', id 22
+[20:57:16] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_green2.png', id 23
+[20:57:16] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_yellow2.png', id 24
+[20:57:16] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_orange2.png', id 25
+[20:57:16] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_purple2.png', id 26
+[20:57:16] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_pink2.png', id 27
+[20:57:16] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_cyan.png', id 28
+[20:57:16] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_green.png', id 29
+[20:57:16] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_yellow.png', id 30
+[20:57:16] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_orange.png', id 31
+[20:57:17] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_purple.png', id 32
+[20:57:17] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_pink.png', id 33
+[20:57:17] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\teleportToWaypointBoxKeyboard.png', id 34
+[20:57:17] CORE: Creating texture 'E:\Grand Theft Auto V\menyooStuff\Graphics\teleportToWaypointBoxGamepad.png', id 35
+[20:57:19] CORE: Launching main() for 'Menyoo.asi' (0x00007FFDDAA3F830), id 193
+[20:57:19] CORE: Launching main() for 'mpspecialraces.asi' (0x00007FFE05951270), id 194
+[20:57:19] CORE: Launching main() for 'NativeTrainer.asi' (0x00007FFE0097A3C0), id 195
+[20:57:19] CORE: Launching main() for 'ScriptHookVDotNet.asi' (0x00007FFDEC261450), id 196
+[20:57:19] CORE: Launching main() for 'YachtDeluxe.asi' (0x00007FFDEC5520C0), id 197
+[21:30:31] CORE: An exception occurred while executing 'Menyoo.asi' (0x00007FFDDAA3F830), id 193
+[21:58:37] UNINIT: Unregistering script 'YachtDeluxe.asi'
+[21:58:37] UNINIT: Unregistering script 'ScriptHookVDotNet.asi'
+[21:58:37] UNINIT: Unregistering script 'NativeTrainer.asi'
+[21:58:37] UNINIT: Unregistering script 'mpspecialraces.asi'
+[21:58:37] UNINIT: Unregistering script 'Menyoo.asi'

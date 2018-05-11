@@ -1,0 +1,75 @@
+[21:54:41] [DEBUG] Created script domain 'ScriptDomain_40C7C7EB'.
+[21:54:41] [DEBUG] Loading scripts from 'E:\Grand Theft Auto V\scripts' into script domain 'ScriptDomain_40C7C7EB' ...
+[21:54:41] [DEBUG] Found 7 script(s) in 'HotCoffee.dll'.
+[21:54:41] [DEBUG] Starting 7 script(s) ...
+[21:54:41] [DEBUG] Instantiating script 'HotCoffee.Settings' in script domain 'ScriptDomain_40C7C7EB' ...
+[21:54:42] [DEBUG] Started script 'HotCoffee.Settings'.
+[21:54:42] [DEBUG] Instantiating script 'HotCoffee.Main' in script domain 'ScriptDomain_40C7C7EB' ...
+[21:54:42] [ERROR] Failed to instantiate script 'HotCoffee.Main' because constructor threw an exception:
+System.TypeInitializationException: “HotCoffee.Main”的类型初始值设定项引发异常。 ---> System.IO.FileNotFoundException: 未能加载文件或程序集“NativeUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”或它的某一个依赖项。系统找不到指定的文件。
+   在 HotCoffee.Main..cctor()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 HotCoffee.Main..ctor()
+[21:54:42] [DEBUG] Instantiating script 'HotCoffee.HotCoffeeVehicleScript' in script domain 'ScriptDomain_40C7C7EB' ...
+[21:54:42] [DEBUG] Started script 'HotCoffee.HotCoffeeVehicleScript'.
+[21:54:42] [DEBUG] Instantiating script 'HotCoffee.HotCoffeeOnFootScript' in script domain 'ScriptDomain_40C7C7EB' ...
+[21:54:42] [DEBUG] Started script 'HotCoffee.HotCoffeeOnFootScript'.
+[21:54:42] [DEBUG] Instantiating script 'HotCoffee.Menus.Vehicle.MainMenu' in script domain 'ScriptDomain_40C7C7EB' ...
+[21:54:42] [ERROR] Failed to instantiate script 'HotCoffee.Menus.Vehicle.MainMenu' because constructor threw an exception:
+System.IO.FileNotFoundException: 未能加载文件或程序集“NativeUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“NativeUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”
+   在 HotCoffee.Menus.Vehicle.MainMenu..ctor()
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+[21:54:42] [DEBUG] Instantiating script 'HotCoffee.Menus.OnFoot.SexMenu' in script domain 'ScriptDomain_40C7C7EB' ...
+[21:54:42] [ERROR] Failed to instantiate script 'HotCoffee.Menus.OnFoot.SexMenu' because constructor threw an exception:
+System.IO.FileNotFoundException: 未能加载文件或程序集“NativeUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“NativeUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”
+   在 HotCoffee.Menus.OnFoot.SexMenu..ctor()
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+[21:54:42] [DEBUG] Instantiating script 'HotCoffee.Menus.OnFoot.MainMenu' in script domain 'ScriptDomain_40C7C7EB' ...
+[21:54:42] [ERROR] Failed to instantiate script 'HotCoffee.Menus.OnFoot.MainMenu' because constructor threw an exception:
+System.IO.FileNotFoundException: 未能加载文件或程序集“NativeUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“NativeUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”
+   在 HotCoffee.Menus.OnFoot.MainMenu..ctor()
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+[21:54:42] [ERROR] Caught fatal unhandled exception:
+System.IO.FileNotFoundException: 未能加载文件或程序集“NativeUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“NativeUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”
+   在 HotCoffee.HotCoffeeVehicleScript.OnTick(Object sender, EventArgs e)
+   在 GTA.Script.raise_Tick(Object value0, EventArgs value1)
+   在 GTA.Script.MainLoop()
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+[21:54:42] [ERROR] Caught fatal unhandled exception:
+System.IO.FileNotFoundException: 未能加载文件或程序集“NativeUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“NativeUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”
+   在 HotCoffee.HotCoffeeOnFootScript.OnTick(Object sender, EventArgs e)
+   在 GTA.Script.raise_Tick(Object value0, EventArgs value1)
+   在 GTA.Script.MainLoop()
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+[21:54:47] [ERROR] Script 'HotCoffee.HotCoffeeOnFootScript' is not responding! Aborting ...
+[21:54:47] [DEBUG] Aborted script 'HotCoffee.HotCoffeeOnFootScript'.

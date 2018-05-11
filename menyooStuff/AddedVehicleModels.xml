@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<AddedVehicleModels>
+	<VehModel modelName="DUNE2" modelHash="0x1fd824af" customName="星際碼頭" />
+	<VehModel modelName="MONSTER" modelHash="0xcd93a7db" customName="解放者" />
+	<VehModel modelName="PHANTOM" modelHash="0x809aa4cb" customName="魅影" />
+	<VehModel modelName="TOWTRUCK" modelHash="0xb12314e0" customName="拖吊車" />
+	<VehModel modelName="JESTER" modelHash="0xb2a716a3" customName="小丑" />
+</AddedVehicleModels>
